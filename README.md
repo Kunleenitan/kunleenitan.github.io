@@ -1,6 +1,6 @@
 # Data Analyst | Business Analyst
 
-## Technical Skill: SQL | Power BI | Tableau | Advanced Excel
+## Technical Skill: SQL | Power BI | Tableau | Advanced Excel | Visio
 
 ### Education
 - MSC, Accouncting | Afe Babalola University 2019
