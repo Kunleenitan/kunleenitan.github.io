@@ -3,9 +3,9 @@
 ## Technical Skill: SQL | Power BI | Tableau | Advanced Excel
 
 ### Education
--- MSC, Accouncting | Afe Babalola University 2019
--- BSc Business Admin | Houdegbe North American University Benin 2010
--- HND Accounting | Osun State College of Technology 2002
+- MSC, Accouncting | Afe Babalola University 2019
+- BSc Business Admin | Houdegbe North American University Benin 2010
+- HND Accounting | Osun State College of Technology 2002
 
 ### Work Experience
 **Business analyst @ BCP Council (_Feb 2024 - Present)**
