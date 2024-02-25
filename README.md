@@ -8,7 +8,7 @@
 - HND Accounting | Osun State College of Technology 2002
 
 ### Work Experience
-**Business analyst @ BCP Council (_Feb 2024 - Present)**
+**Business analyst @ BCP Council (_Feb 2024 - Present_)**
 - Reviewed and designed customer journeys and back-office processes to address customer service issues and enhance operational efficiency.
 - Utilized a simple methodology to design new journeys, adopting common approaches across BCP Council to support the goal of enabling enhanced self-service and digitally based services.
 - Provided analytical support for other activities as required, utilizing well-developed analytical skills.
